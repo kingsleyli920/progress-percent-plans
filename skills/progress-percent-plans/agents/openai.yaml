@@ -1,0 +1,4 @@
+interface:
+  display_name: "Progress Percent Plans"
+  short_description: "Keep every multi-step plan visibly updated by percentage"
+  default_prompt: "Use $progress-percent-plans to plan this task with visible per-step percentages and keep them updated as work progresses."

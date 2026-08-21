@@ -1,0 +1,39 @@
+{
+  "name": "progress-percent-plans",
+  "version": "1.0.0",
+  "description": "Keep every multi-step Codex plan visibly updated with honest per-step percentages.",
+  "author": {
+    "name": "Kingsley_Li",
+    "url": "https://github.com/kingsleyli920"
+  },
+  "homepage": "https://github.com/kingsleyli920/progress-percent-plans",
+  "repository": "https://github.com/kingsleyli920/progress-percent-plans",
+  "license": "MIT",
+  "keywords": [
+    "planning",
+    "progress",
+    "percentages",
+    "todos",
+    "project-management"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Progress Percent Plans",
+    "shortDescription": "Keep multi-step plans visibly updated by percentage",
+    "longDescription": "A lightweight planning discipline for Codex that adds an honest completion percentage to every plan step, updates it at material checkpoints, preserves progress across interruptions, and keeps completion status consistent with verification evidence.",
+    "developerName": "Kingsley_Li",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Plan this task with visible percentages and keep them updated.",
+      "Show the current progress percentage of every plan step.",
+      "Turn this TODO into a percentage-tracked execution plan."
+    ],
+    "brandColor": "#3155D9",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "websiteURL": "https://github.com/kingsleyli920/progress-percent-plans",
+    "privacyPolicyURL": "https://github.com/kingsleyli920/progress-percent-plans/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/kingsleyli920/progress-percent-plans/blob/main/TERMS.md"
+  }
+}
